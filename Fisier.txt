@@ -1,3 +1,0 @@
-acesta este primul fisier versionat
-acesta este al doilea commit
-acesta este al treilea commit
