@@ -1,0 +1,1 @@
+Funcția TEXT vă permite să modificați modul în care apare un număr, aplicând la acesta formatare cu Coduri de formatare. Aceasta este utilă în situațiile în care doriți să afișați numere într-un format mai ușor de citit sau când doriți să combinați numere cu text sau simboluri.
